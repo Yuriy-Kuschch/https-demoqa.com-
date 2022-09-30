@@ -1,0 +1,972 @@
+2022-29-08 22:03:35   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-29-08 22:03:35   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-29-08 22:04:04   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-29-08 22:04:05   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-29-08 22:07:09   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-29-08 22:07:10   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-29-08 22:10:14   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-29-08 22:10:15   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-29-08 22:10:34   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-29-08 22:10:35   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-29-08 22:11:05   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-29-08 22:11:06   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-29-08 23:25:34   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-29-08 23:26:03   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-29-08 23:53:16   INFO [mainPageTest.MainPageTest] : browser was opened
+2022-29-08 23:53:17   INFO [mainPageTest.MainPageTest] : browser was closed
+2022-31-08 01:24:04   INFO [mainPageTest.MainPageTest] : browser was opened
+2022-31-08 01:24:09   INFO [mainPageTest.MainPageTest] : browser was closed
+2022-31-08 01:39:42   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-31-08 01:39:47   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-31-08 01:40:06   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-31-08 01:40:07   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-31-08 01:40:22   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-31-08 01:40:23   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-31-08 01:48:17   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-31-08 01:48:18   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-31-08 22:01:06   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-31-08 22:01:17   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-02-09 01:12:30   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-02-09 01:12:34   INFO [pages.MainPage] : Element was clicked
+2022-02-09 01:12:41   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-02-09 01:12:43   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-02-09 01:12:48   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-02-09 01:39:52   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-02-09 01:39:56   INFO [pages.MainPage] : Element was clicked
+2022-02-09 01:39:56   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-02-09 01:40:06   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-02-09 01:40:10   INFO [pages.MainPage] : Element was clicked
+2022-02-09 01:40:10   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-02-09 01:41:45   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-02-09 01:41:49   INFO [pages.MainPage] : Element was clicked
+2022-02-09 01:41:50   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-02-09 02:01:55   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-02-09 02:01:59   INFO [pages.MainPage] : Element was clicked
+2022-02-09 02:02:00   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-02-09 02:02:02   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-02-09 02:02:05   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-02-09 02:02:27   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-02-09 02:02:31   INFO [pages.MainPage] : Element was clicked
+2022-02-09 02:02:32   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 21:23:15   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 21:23:19   INFO [pages.MainPage] : Element was clicked
+2022-05-09 21:23:20   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 21:23:34   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 21:23:39   INFO [pages.MainPage] : Element was clicked
+2022-05-09 21:23:51   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 21:29:32   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 21:29:36   INFO [pages.MainPage] : Element was clicked
+2022-05-09 21:29:37   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 21:33:11   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 21:33:15   INFO [pages.MainPage] : Element was clicked
+2022-05-09 21:33:16   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 21:45:09   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 21:45:13   INFO [pages.MainPage] : Element was clicked
+2022-05-09 21:45:20   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 21:47:19   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 21:47:23   INFO [pages.MainPage] : Element was clicked
+2022-05-09 21:47:30   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 22:04:51   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 22:04:55   INFO [pages.MainPage] : Element was clicked
+2022-05-09 22:05:02   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 22:07:10   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 22:07:13   INFO [pages.MainPage] : Element was clicked
+2022-05-09 22:07:14   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 22:08:16   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 22:08:20   INFO [pages.MainPage] : Element was clicked
+2022-05-09 22:08:21   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 22:26:25   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 22:26:29   INFO [pages.MainPage] : Element was clicked
+2022-05-09 22:26:29   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 22:27:42   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 22:27:53   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-05-09 22:27:54   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 22:40:17   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 22:40:29   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-05-09 22:40:29   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (6df829fa9adfec4caa55bd05487b44da)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 22:40:42   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 22:41:16   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 22:41:28   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-05-09 22:41:28   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (81a145d1fe43fe6e589f4aa22f4a2076)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 22:41:41   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 22:41:42   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 22:41:47   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 22:42:14   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 22:42:24   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-05-09 22:42:24   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (7378eaf999a84f4798eae29ea6634aec)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 22:42:37   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 22:48:41   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 22:48:52   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-05-09 22:48:52   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (4d10949e9133149650ad79384ead9b16)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 22:48:52   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (4d10949e9133149650ad79384ead9b16)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 22:49:05   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 23:01:16   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 23:01:27   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-05-09 23:01:32   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (de8c2d57a3b0b8e7c4b098d8ec5e26a0)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 23:01:37   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (de8c2d57a3b0b8e7c4b098d8ec5e26a0)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 23:01:50   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 23:04:17   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 23:04:28   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-05-09 23:04:28   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (c252f0175359a9213a174071be72e770)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 23:04:28   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (c252f0175359a9213a174071be72e770)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 23:04:41   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 23:05:45   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 23:05:56   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-05-09 23:05:57   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (e68d15b6b8c66918347f6a04bc6dec46)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 23:05:57  ERROR [pages.TextBoxPage] : Can not work with elementorg.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression .//ul/li/span[text()='Text Box']/parent::li")).click() because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/ul/li/span[text()='Text Box']/parent::li")).click()' is not a valid XPath expression.
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53595}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e68d15b6b8c66918347f6a04bc6dec46
+*** Element info: {Using=xpath, value=.//ul/li/span[text()='Text Box']/parent::li")).click()}
+2022-05-09 23:05:58   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-05-09 23:06:28   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-05-09 23:06:39   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-05-09 23:06:39   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (536c9ee7cb5353db709df5c0a0642e88)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-05-09 23:06:39   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (536c9ee7cb5353db709df5c0a0642e88)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-05-09 23:06:52   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-06-09 16:43:45   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-06-09 16:44:01   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-06-09 16:44:02   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (626d9276510aa01764574f9f1b7b5640)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-06-09 16:44:09  ERROR [pages.TextBoxPage] : Can not work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51193}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 626d9276510aa01764574f9f1b7b5640
+2022-06-09 16:44:11   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-06-09 16:46:42   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-06-09 16:46:58   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-06-09 16:46:58   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (e5d52ec46febb76c63aac0578de4f6bc)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-06-09 16:47:11  ERROR [pages.TextBoxPage] : Can not work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e5d52ec46febb76c63aac0578de4f6bc
+2022-06-09 16:47:13   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-06-09 16:49:34   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-06-09 16:49:50   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-06-09 16:49:51   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (3b9fc0cfffbefb67cda263695c4ffd55)] -> xpath: .//div[@class='header-wrapper' ]/div [contains(text(),'Elements')]/parent::div]
+2022-06-09 16:50:00  ERROR [pages.TextBoxPage] : Can not work with elementorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63203}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b9fc0cfffbefb67cda263695c4ffd55
+*** Element info: {Using=xpath, value=.//ul/li/span[text()='Text Box']/parent::li}
+2022-06-09 16:50:01   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-06-09 16:50:12   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-06-09 16:50:23  ERROR [pages.MainPage] : Can not open Main Pageorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63278}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2519d37c803bbd008517e90b784a26a5
+2022-06-09 16:50:24   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-06-09 17:37:31   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-06-09 17:37:52   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-06-09 17:37:53   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (18ec2a091d6654476b15d167c10a57ab)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-06-09 17:38:00   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-06-09 17:38:14   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-06-09 17:38:19   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-06-09 17:38:29   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-06-09 17:40:01   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-06-09 17:40:17   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-06-09 17:40:18   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (059efe5d9d1326ae2e498a139d86f0fd)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-06-09 17:40:25   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-06-09 17:40:39   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 01:33:43   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 01:33:59   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-07-09 01:33:59   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (9c4778f1328bc9b4b668112203e845bc)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-07-09 01:34:06   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-07-09 01:34:07   INFO [pages.TextBoxPage] : Full Name was inputed 
+2022-07-09 01:34:15   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 01:34:21   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 01:34:28   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 01:35:50   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 01:36:05   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-07-09 01:36:05   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (0c5d6bd109632a42cb09f89a9b410865)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-07-09 01:36:12   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-07-09 01:36:14   INFO [pages.TextBoxPage] : Full Name was inputed 
+2022-07-09 01:36:17   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 01:36:23   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 01:36:32   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 10:08:58   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 10:09:37   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-07-09 10:09:38   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (570eca66c620c81f3a7b794b87feaa95)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-07-09 10:09:45   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-07-09 10:09:47   INFO [pages.TextBoxPage] : Full Name was inputed 
+2022-07-09 10:09:56   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 14:42:46   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 14:43:02   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-07-09 14:43:02   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (4a3d28cac643b2c2ef7479f06ff41483)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-07-09 14:43:09   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-07-09 14:43:11   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-07-09 14:43:26  ERROR [pages.TextBoxPage] : Can not work with elementorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//input[@type='email']")).sendKeys("email@gmail.com' (tried for 15 second(s) with 500 milliseconds interval)
+2022-07-09 14:43:28   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 14:45:26   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 14:45:41   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-07-09 14:45:42   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (beb87f88050dfd163ea4aa660b3428e2)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-07-09 14:45:49   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-07-09 14:45:51   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-07-09 14:46:06  ERROR [pages.TextBoxPage] : Can not work with elementorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//input[@type='email']")).sendKeys("email@gmail.com' (tried for 15 second(s) with 500 milliseconds interval)
+2022-07-09 14:46:08   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 15:23:59   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 15:24:17   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-07-09 15:24:17   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (cad32f6d4bd43f3e35d1b9e4d28fc312)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-07-09 15:24:24   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-07-09 15:24:26   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-07-09 15:24:46  ERROR [pages.TextBoxPage] : Can not work with elementorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//input[@type='email']")).sendKeys("email@gmail.com' (tried for 20 second(s) with 500 milliseconds interval)
+2022-07-09 15:24:48   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 15:25:19   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 15:25:33   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-07-09 15:25:34   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (543fcf3e96ac56e839927c91822667be)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-07-09 15:25:41   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-07-09 15:25:42   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-07-09 15:26:02  ERROR [pages.TextBoxPage] : Can not work with elementorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//textarea[@placeholder='Current Address']")).sendKeys("Current Address' (tried for 20 second(s) with 500 milliseconds interval)
+2022-07-09 15:26:04   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 18:00:52   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 18:01:11   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-07-09 18:01:12   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (0bfdb309d015d6a87c6a5f9c7712dea8)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-07-09 18:01:19   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-07-09 18:01:21   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-07-09 18:01:22   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-07-09 18:01:23   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-07-09 18:01:25  ERROR [pages.TextBoxPage] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button id="submit" type="button" class="btn btn-primary">...</button> is not clickable at point (1126, 727). Other element would receive the click: <iframe id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" name="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" title="3rd party ad content" width="970" height="100" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" role="region" aria-label="Advertisement" tabindex="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" style="border: 0px; vertical-align: bottom;" data-load-complete="true" data-google-container-id="1"></iframe>
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57371}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0bfdb309d015d6a87c6a5f9c7712dea8
+2022-07-09 18:01:27   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 18:07:39   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 18:07:56   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-07-09 18:07:56   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (dcc1b9c11e294632d9a452ec9548fac4)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-07-09 18:08:04   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-07-09 18:08:05   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-07-09 18:08:06   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-07-09 18:08:07   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-07-09 18:08:08  ERROR [pages.TextBoxPage] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button id="submit" type="button" class="btn btn-primary">...</button> is not clickable at point (1126, 727). Other element would receive the click: <iframe id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" name="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" title="3rd party ad content" width="809" height="100" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" role="region" aria-label="Advertisement" tabindex="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" style="border: 0px; vertical-align: bottom;" data-load-complete="true" data-google-container-id="1"></iframe>
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57484}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dcc1b9c11e294632d9a452ec9548fac4
+2022-07-09 18:08:10   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-07-09 19:52:25   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-07-09 19:52:42   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-07-09 19:52:42   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (4f09105aa10688188360147b534d1055)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-07-09 19:52:49   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-07-09 19:52:51   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-07-09 19:52:52   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-07-09 19:52:53   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-07-09 19:52:54   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-07-09 19:52:54   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (4f09105aa10688188360147b534d1055)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-07-09 19:52:59   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-08-09 00:06:47   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-08-09 00:06:59   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-08-09 00:06:59   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (03d18d5bdcbfd5fce52b94d6a7428472)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-08-09 00:07:06   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-08-09 00:07:08   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-08-09 00:07:28   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-08-09 00:07:40   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-08-09 00:07:40   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (89eec0c63819284c5e73c7d4d96ebdd2)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-08-09 00:07:47   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-08-09 00:07:48   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-08-09 00:13:42   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-08-09 00:13:54   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-08-09 00:13:54   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (36aa5034921bfcd5226db5d3c7c0d42c)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-08-09 00:14:01   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-08-09 00:14:02   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-08-09 00:19:10   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-08-09 00:19:21   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-08-09 00:19:21   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (e797423d637a771b660ea85d9e10b19e)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-08-09 00:19:28   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-08-09 00:19:29   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-08-09 00:24:44   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-08-09 00:24:56   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-08-09 00:24:56   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (29ebfc835098cc22a49feda8a2372b0a)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-08-09 00:25:03   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-08-09 00:25:04   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-08-09 00:41:56   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-08-09 00:42:06   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-08-09 00:42:07   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (ed79e79c002a535d4ed5039b648d5cdf)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-08-09 00:42:14   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-08-09 00:42:14   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-08-09 00:43:05   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-08-09 00:43:16   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-08-09 00:43:16   INFO [pages.TextBoxPage] : Element is displayed
+2022-08-09 00:43:16   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (7886d34bc3835f9e677a98e82fbf0461)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-08-09 00:43:16   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-08-09 00:43:16   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-08-09 00:43:17   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-08-09 00:43:17   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-08-09 00:43:17   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (7886d34bc3835f9e677a98e82fbf0461)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-08-09 00:43:18   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-08-09 00:49:53   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-08-09 00:50:04   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-08-09 00:50:04   INFO [pages.TextBoxPage] : Element is displayed
+2022-08-09 00:50:04   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (0b6b69f6ea69a7964e5ecbd6c0ee5ef2)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-08-09 00:50:04   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-08-09 00:50:04   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-08-09 00:50:05   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-08-09 00:50:05   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-08-09 00:50:05   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (0b6b69f6ea69a7964e5ecbd6c0ee5ef2)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-08-09 00:50:05   INFO [pages.TextBoxPage] : Element is displayed
+2022-08-09 00:50:06   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-08-09 00:55:15   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-08-09 00:55:26   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-08-09 00:55:26   INFO [pages.TextBoxPage] : Element is displayed
+2022-08-09 00:55:26   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (0652ce19a4aab6ce945766e9a1331c11)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-08-09 00:55:26   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-08-09 00:55:26   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-08-09 00:55:26   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-08-09 00:55:27   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-08-09 00:55:27   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (0652ce19a4aab6ce945766e9a1331c11)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-08-09 00:55:27   INFO [pages.TextBoxPage] : Element is displayed
+2022-08-09 00:55:28   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-08-09 01:05:09   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-08-09 01:05:20   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-08-09 01:05:20   INFO [pages.TextBoxPage] : Element is displayed
+2022-08-09 01:05:20   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (836d2fa20f618de54060bc751df24607)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-08-09 01:05:21   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-08-09 01:05:21   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-08-09 01:05:21   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-08-09 01:05:21   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-08-09 01:05:21   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (836d2fa20f618de54060bc751df24607)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-08-09 01:05:22   INFO [pages.TextBoxPage] : Element is displayed
+2022-08-09 01:05:22   INFO [pages.TextBoxPage] : Element is displayed
+2022-08-09 01:05:22   INFO [pages.TextBoxPage] : Element is displayed
+2022-08-09 01:05:22   INFO [pages.TextBoxPage] : Element is displayed
+2022-08-09 01:05:23   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-09-09 18:48:57   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-09-09 18:49:08   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-09-09 18:49:08   INFO [pages.TextBoxPage] : Element is displayed
+2022-09-09 18:49:08   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (7b46fc229fca97084cce32c632dc1fbf)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-09-09 18:49:08   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-09-09 18:49:09   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-09-09 18:49:09   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-09-09 18:49:09   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-09-09 18:49:09   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (7b46fc229fca97084cce32c632dc1fbf)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-09-09 18:49:10   INFO [pages.TextBoxPage] : Element is displayed
+2022-09-09 18:49:10   INFO [pages.TextBoxPage] : Element is displayed
+2022-09-09 18:49:10   INFO [pages.TextBoxPage] : Element is displayed
+2022-09-09 18:49:10   INFO [pages.TextBoxPage] : Element is displayed
+2022-09-09 18:49:11   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-11-09 00:21:43   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:21:57   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:21:58   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (32bb42f3efaab656ee4ded737e335522)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 00:21:58   INFO [pages.RadioButtonPage] : Element is displayed
+2022-11-09 00:21:58   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (32bb42f3efaab656ee4ded737e335522)] -> xpath: .//label[text()='Yes']/parent::div]
+2022-11-09 00:22:06   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:22:40   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:22:54   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:23:01   INFO [pages.RadioButtonPage] : Element is notdisplayed
+2022-11-09 00:23:02   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:23:56   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-11-09 00:24:08   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:24:08   INFO [pages.TextBoxPage] : Element is displayed
+2022-11-09 00:24:08   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (24e301e08b75afff4475591e54f4fc5f)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-11-09 00:24:08   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-11-09 00:24:09   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-11-09 00:24:09   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-11-09 00:24:09   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-11-09 00:24:09   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (24e301e08b75afff4475591e54f4fc5f)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-11-09 00:24:09   INFO [pages.TextBoxPage] : Element is displayed
+2022-11-09 00:24:09   INFO [pages.TextBoxPage] : Element is displayed
+2022-11-09 00:24:10   INFO [pages.TextBoxPage] : Element is displayed
+2022-11-09 00:24:10   INFO [pages.TextBoxPage] : Element is displayed
+2022-11-09 00:24:11   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-11-09 00:25:11   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:25:22   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:25:22   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (4f4cb3a702587b61790d261bc422a2b9)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 00:25:22   INFO [pages.RadioButtonPage] : Element is displayed
+2022-11-09 00:25:23   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (4f4cb3a702587b61790d261bc422a2b9)] -> xpath: .//label[text()='Yes']/parent::div]
+2022-11-09 00:25:31   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:28:35   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:28:46   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:28:47   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (f3871d4223c67086db70e710e8a8d4c3)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 00:28:47   INFO [pages.RadioButtonPage] : Element is displayed
+2022-11-09 00:28:47   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (f3871d4223c67086db70e710e8a8d4c3)] -> xpath: .//label[text()='Yes']/parent::div]
+2022-11-09 00:28:55   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:31:24   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:31:34   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:31:41   INFO [pages.RadioButtonPage] : Element is notdisplayed
+2022-11-09 00:31:42   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:32:13   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:32:24   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:32:24   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (c2d611710c5a2ade1368229d11708200)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 00:32:24   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (c2d611710c5a2ade1368229d11708200)] -> xpath: .//label[text()='Yes']/parent::div]
+2022-11-09 00:32:32   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:34:03   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:34:14   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:34:14   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (dc3c1a776f6918f626ce17c66fbeba7c)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 00:34:14   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (dc3c1a776f6918f626ce17c66fbeba7c)] -> xpath: .//label[text()='Yes']/parent::div]
+2022-11-09 00:34:22   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:36:30   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:36:41   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:36:41   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (567b8e7311020a2f076e0fd7e5151689)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 00:36:42  ERROR [pages.RadioButtonPage] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="radio" id="yesRadio" name="like" class="custom-control-input"> is not clickable at point (426, 376). Other element would receive the click: <label class="custom-control-label" for="yesRadio">...</label>
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63424}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 567b8e7311020a2f076e0fd7e5151689
+2022-11-09 00:36:44   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:40:53   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:41:04   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:41:04   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (070beb6b5cb35139f9e80595d56cc63b)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 00:41:05  ERROR [pages.RadioButtonPage] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="radio" id="yesRadio" name="like" class="custom-control-input"> is not clickable at point (426, 376). Other element would receive the click: <label class="custom-control-label" for="yesRadio">...</label>
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63596}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 070beb6b5cb35139f9e80595d56cc63b
+2022-11-09 00:41:06   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:42:55   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:43:07   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:43:07   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (ad5446ac394a99ca2ef84034804edea5)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 00:43:07   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (ad5446ac394a99ca2ef84034804edea5)] -> xpath: .//label[@for='yesRadio']]
+2022-11-09 00:43:13   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:44:26   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:44:38   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:44:38   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (fccd8ec5088d63fdd1ba859f8030fbb3)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 00:44:38   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (fccd8ec5088d63fdd1ba859f8030fbb3)] -> xpath: .//label[@for='yesRadio']]
+2022-11-09 00:44:44   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 00:59:11   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 00:59:23   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 00:59:23   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (16627f4fd82c2a3ad6b4df5e29f60c3f)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 00:59:23   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (16627f4fd82c2a3ad6b4df5e29f60c3f)] -> xpath: .//label[@for='yesRadio']]
+2022-11-09 00:59:23   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 00:59:29   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 01:01:18   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 01:01:31   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 01:01:31   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (5cc7a008cba6742db1c89e16c937cc45)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 01:01:31   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (5cc7a008cba6742db1c89e16c937cc45)] -> xpath: .//label[@for='yesRadio']]
+2022-11-09 01:01:31   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 01:01:31   INFO [pages.RadioButtonPage] : -----No---------
+2022-11-09 01:01:37   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 01:03:32   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 01:03:43   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 01:03:43   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (a82c1560bc589c5a81971d8775a5c87a)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 01:03:43   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (a82c1560bc589c5a81971d8775a5c87a)] -> xpath: .//label[@for='yesRadio']]
+2022-11-09 01:03:43   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 01:03:43   INFO [pages.RadioButtonPage] : -----No---------
+2022-11-09 01:03:49   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 01:06:19   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 01:06:30   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 01:06:31   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (7e82e91594375e7a1794507cf3387297)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 01:06:31   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (7e82e91594375e7a1794507cf3387297)] -> xpath: .//label[@for='yesRadio']]
+2022-11-09 01:06:31   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 01:06:31   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 01:06:31   INFO [pages.RadioButtonPage] : -----No---------
+2022-11-09 01:06:37   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 01:12:07   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 01:12:18   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 01:12:18   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (182e064fbb5dfe4222d010c11c784e33)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 01:12:18   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (182e064fbb5dfe4222d010c11c784e33)] -> xpath: .//label[@for='yesRadio']]
+2022-11-09 01:12:18   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 01:12:18   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 01:12:18   INFO [pages.RadioButtonPage] : -----No---------
+2022-11-09 01:12:24   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 01:33:40   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 01:34:05   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 01:34:05   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (b793dcd3a77285c0f259e3960a1a673b)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 01:34:05   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (b793dcd3a77285c0f259e3960a1a673b)] -> xpath: .//label[@for='yesRadio']]
+2022-11-09 01:34:05   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 01:34:05   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 01:34:05   INFO [pages.RadioButtonPage] : -----No---------
+2022-11-09 01:34:11   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 01:36:56   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 01:37:08   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 01:37:08   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (d6703c7b2ca451f0963406c54c51875e)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 01:37:08   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (d6703c7b2ca451f0963406c54c51875e)] -> xpath: .//label[@for='yesRadio']]
+2022-11-09 01:37:08   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 01:37:08   INFO [pages.RadioButtonPage] : Yes
+2022-11-09 01:37:08   INFO [pages.RadioButtonPage] : ---------------yes---------------
+2022-11-09 01:37:14   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-11-09 01:48:38   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-11-09 01:48:49   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-11-09 01:48:49   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (a6d81e0576dc02ee3edf9d991b94037f)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-11-09 01:48:49   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (a6d81e0576dc02ee3edf9d991b94037f)] -> xpath: .//label[@for='yesRadio']]
+2022-11-09 01:48:49   INFO [pages.RadioButtonPage] : Element Yes is displayed
+2022-11-09 01:48:55   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-26-09 21:24:27   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-26-09 21:24:30   INFO [pages.MainPage] : Main page was opened
+2022-26-09 21:24:37   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-26-09 21:24:38   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:24:38   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (ca7a3d2377fd88c74de703ca91c89bbb)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-26-09 21:24:38   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-26-09 21:24:38   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-26-09 21:24:39   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-26-09 21:24:39   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-26-09 21:24:39   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (ca7a3d2377fd88c74de703ca91c89bbb)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-26-09 21:24:39   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:24:39   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:24:39   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:24:39   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:24:40   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-26-09 21:37:34   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-26-09 21:37:45   INFO [pages.MainPage] : Main page was opened
+2022-26-09 21:37:52   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-26-09 21:37:52   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:37:53   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (b1ae7e0473bd8071a78fc889f35de58f)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-26-09 21:37:53   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-26-09 21:37:53   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-26-09 21:37:54   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-26-09 21:37:54   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-26-09 21:37:54   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (b1ae7e0473bd8071a78fc889f35de58f)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-26-09 21:37:54   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:37:54   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:37:54   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:37:54   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:37:55   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-26-09 21:38:56   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-26-09 21:39:02   INFO [pages.MainPage] : Main page was opened
+2022-26-09 21:39:09   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-26-09 21:39:09   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:39:09   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (facf62534d8b9ddcb013f0f7e6ed637d)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-26-09 21:39:16   INFO [pages.TextBoxPage] : Element is notdisplayed
+2022-26-09 21:39:17   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-26-09 21:41:30   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-26-09 21:41:36   INFO [pages.MainPage] : Main page was opened
+2022-26-09 21:41:43   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-26-09 21:41:43   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:41:43   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (03e8c9611f46afe6fc2a599ae454d8b4)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-26-09 21:41:44   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-26-09 21:41:44   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-26-09 21:41:44   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-26-09 21:41:44   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-26-09 21:41:45   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (03e8c9611f46afe6fc2a599ae454d8b4)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-26-09 21:41:45   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:41:45   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:41:45   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:41:45   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:41:46   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-26-09 21:53:54   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-26-09 21:53:58   INFO [pages.MainPage] : Main page was opened
+2022-26-09 21:54:06   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-26-09 21:54:06   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:54:06   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (53cc0d07648e56eb4a3327e7a053882e)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-26-09 21:54:07   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-26-09 21:55:13   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-26-09 21:55:18   INFO [pages.MainPage] : Main page was opened
+2022-26-09 21:55:26   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-26-09 21:55:26   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:55:26   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (c471613ab1cd513e5e5a7f7c25156c4a)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-26-09 21:55:27   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-26-09 21:57:08   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-26-09 21:57:12   INFO [pages.MainPage] : Main page was opened
+2022-26-09 21:57:19   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-26-09 21:57:19   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:57:19   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (54ea17df8d8b3feceef81dd133595522)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-26-09 21:57:20   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-26-09 21:57:20   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-26-09 21:57:20   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-26-09 21:57:20   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-26-09 21:57:21   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (54ea17df8d8b3feceef81dd133595522)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-26-09 21:57:21   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:57:21   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:57:21   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:57:21   INFO [pages.TextBoxPage] : Element is displayed
+2022-26-09 21:57:22   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-27-09 16:47:50   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 16:47:53   INFO [pages.MainPage] : Main page was opened
+2022-27-09 16:48:01   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 16:48:08  ERROR [pages.WebTablesPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//button[text()='Add']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54859}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b72102c9adf19d8c1bd5bc75b71c2cb1
+*** Element info: {Using=xpath, value=.//button[text()='Add']}
+2022-27-09 16:48:10   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 16:49:11   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-27-09 16:49:15   INFO [pages.MainPage] : Main page was opened
+2022-27-09 16:49:22   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 16:49:22   INFO [pages.TextBoxPage] : Element is displayed
+2022-27-09 16:49:22   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (e01140abd4dce1a33682aba0603c1366)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-27-09 16:49:23   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-27-09 16:49:23   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-27-09 16:49:23   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-27-09 16:49:23   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-27-09 16:49:23   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (e01140abd4dce1a33682aba0603c1366)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-27-09 16:49:24   INFO [pages.TextBoxPage] : Element is displayed
+2022-27-09 16:49:24   INFO [pages.TextBoxPage] : Element is displayed
+2022-27-09 16:49:24   INFO [pages.TextBoxPage] : Element is displayed
+2022-27-09 16:49:24   INFO [pages.TextBoxPage] : Element is displayed
+2022-27-09 16:49:25   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-27-09 17:05:54   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 17:06:03   INFO [pages.MainPage] : Main page was opened
+2022-27-09 17:06:10   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 17:06:10   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (cea686eebf58fe083209ba2a536f1f76)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 17:06:10   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (cea686eebf58fe083209ba2a536f1f76)] -> xpath: .//button[text()='Add']]
+2022-27-09 17:06:11   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 17:08:21   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 17:08:25   INFO [pages.MainPage] : Main page was opened
+2022-27-09 17:08:32   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 17:08:32   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (6802e04d366ea3d004150150b6ec93d6)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 17:08:33   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (6802e04d366ea3d004150150b6ec93d6)] -> xpath: .//button[text()='Add']]
+2022-27-09 17:08:33   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 19:47:11   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 19:47:16   INFO [pages.MainPage] : Main page was opened
+2022-27-09 19:47:24   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 19:47:24   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (4b8306c3ad8d7dde3e69e04a17fa527d)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 19:47:24   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (4b8306c3ad8d7dde3e69e04a17fa527d)] -> xpath: .//button[text()='Add']]
+2022-27-09 19:47:24   INFO [pages.WebTablesPage] : Element is displayed
+2022-27-09 19:47:25   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 19:54:59   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 19:55:03   INFO [pages.MainPage] : Main page was opened
+2022-27-09 19:55:11   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 19:55:11   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (2386c9d293debb6db4cc8f7b1fe30fb9)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 19:55:11   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (2386c9d293debb6db4cc8f7b1fe30fb9)] -> xpath: .//button[text()='Add']]
+2022-27-09 19:55:11   INFO [pages.WebTablesPage] : Element is displayed
+2022-27-09 19:55:12   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-27-09 19:55:13   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 19:57:52   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 19:57:55   INFO [pages.MainPage] : Main page was opened
+2022-27-09 19:58:03   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 19:58:03   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (508b195b5c4afe4bb35edfc3cc4ece15)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 19:58:03   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (508b195b5c4afe4bb35edfc3cc4ece15)] -> xpath: .//button[text()='Add']]
+2022-27-09 19:58:04   INFO [pages.WebTablesPage] : Element is displayed
+2022-27-09 19:58:04   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-27-09 19:58:04   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-27-09 19:58:04   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-27-09 19:58:05   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 20:02:35   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 20:02:35   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 20:02:43   INFO [pages.MainPage] : Main page was opened
+2022-27-09 20:02:43   INFO [pages.MainPage] : Main page was opened
+2022-27-09 20:02:51   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 20:02:51   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 20:02:51   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (0723d7c8c57c105787f3d280840131fe)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 20:02:51   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (3c7c87a29ec5fae2fca217cad7c945aa)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 20:02:52   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (3c7c87a29ec5fae2fca217cad7c945aa)] -> xpath: .//button[text()='Add']]
+2022-27-09 20:02:52   INFO [pages.WebTablesPage] : Element is displayed
+2022-27-09 20:02:52   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (0723d7c8c57c105787f3d280840131fe)] -> xpath: .//button[text()='Add']]
+2022-27-09 20:02:52   INFO [pages.WebTablesPage] : Element is displayed
+2022-27-09 20:02:52   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-27-09 20:02:52   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-27-09 20:02:52   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-27-09 20:02:53   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-27-09 20:02:53   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-27-09 20:02:53   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-27-09 20:02:54   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-27-09 20:02:54   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-27-09 20:02:54   INFO [pages.WebTablesPage] : Test was inputed 
+2022-27-09 20:02:54   INFO [pages.WebTablesPage] : Test was inputed 
+2022-27-09 20:02:54   INFO [pages.WebTablesPage] : Test was inputed 
+2022-27-09 20:02:55   INFO [pages.WebTablesPage] : Test was inputed 
+2022-27-09 20:02:56   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 20:02:56   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 20:07:26   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 20:07:31   INFO [pages.MainPage] : Main page was opened
+2022-27-09 20:07:38   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 20:07:38   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (9fab70c6c595465f0d7dee8d6c265a9c)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 20:07:38   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (9fab70c6c595465f0d7dee8d6c265a9c)] -> xpath: .//button[text()='Add']]
+2022-27-09 20:07:38   INFO [pages.WebTablesPage] : Element is displayed
+2022-27-09 20:07:39   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-27-09 20:07:39   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-27-09 20:07:39   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-27-09 20:07:39   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-27-09 20:07:40   INFO [pages.WebTablesPage] : 11 was inputed 
+2022-27-09 20:07:40   INFO [pages.WebTablesPage] : Test was inputed 
+2022-27-09 20:07:41   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 20:21:57   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 20:22:01   INFO [pages.MainPage] : Main page was opened
+2022-27-09 20:22:08   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 20:22:08   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (f7217bb50becb17967e00edaaa7472a3)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 20:22:09   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (f7217bb50becb17967e00edaaa7472a3)] -> xpath: .//button[text()='Add']]
+2022-27-09 20:22:09   INFO [pages.WebTablesPage] : Element is displayed
+2022-27-09 20:22:09   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-27-09 20:22:09   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-27-09 20:22:10   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-27-09 20:22:10   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-27-09 20:22:10   INFO [pages.WebTablesPage] : 11 was inputed 
+2022-27-09 20:22:10   INFO [pages.WebTablesPage] : Test was inputed 
+2022-27-09 20:22:18   INFO [pages.WebTablesPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//button[text()='Submit']'
+2022-27-09 20:22:18   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-27-09 20:22:19   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 20:23:18   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 20:23:22   INFO [pages.MainPage] : Main page was opened
+2022-27-09 20:23:29   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 20:23:30   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (2a097c959b81dedcc177b6d8eaf77aea)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 20:23:30   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (2a097c959b81dedcc177b6d8eaf77aea)] -> xpath: .//button[text()='Add']]
+2022-27-09 20:23:30   INFO [pages.WebTablesPage] : Element is displayed
+2022-27-09 20:23:30   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-27-09 20:23:31   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-27-09 20:23:31   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-27-09 20:23:31   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-27-09 20:23:31   INFO [pages.WebTablesPage] : 11 was inputed 
+2022-27-09 20:23:32   INFO [pages.WebTablesPage] : Test was inputed 
+2022-27-09 20:23:32   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (2a097c959b81dedcc177b6d8eaf77aea)] -> xpath: .//button[text()='Submit']]
+2022-27-09 20:23:32   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-27-09 20:23:33   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-27-09 20:23:57   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-27-09 20:24:01   INFO [pages.MainPage] : Main page was opened
+2022-27-09 20:24:08   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-27-09 20:24:09   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (092ee624c8b480d0da275e55fba71ae7)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-27-09 20:24:09   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (092ee624c8b480d0da275e55fba71ae7)] -> xpath: .//button[text()='Add']]
+2022-27-09 20:24:09   INFO [pages.WebTablesPage] : Element is displayed
+2022-27-09 20:24:09   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-27-09 20:24:10   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-27-09 20:24:10   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-27-09 20:24:10   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-27-09 20:24:10   INFO [pages.WebTablesPage] : 11 was inputed 
+2022-27-09 20:24:11   INFO [pages.WebTablesPage] : Test was inputed 
+2022-27-09 20:24:18   INFO [pages.WebTablesPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//button[text()='Submit']'
+2022-27-09 20:24:18   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-27-09 20:24:38  ERROR [pages.WebTablesPage] : Can not work with elementjava.lang.NullPointerException: Cannot invoke "Object.getClass()" because "obj" is null
+2022-27-09 20:24:39   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-28-09 13:41:05   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-28-09 13:41:10   INFO [pages.MainPage] : Main page was opened
+2022-28-09 13:41:18   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-28-09 13:41:18   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (90cfda13e92dbb70155b8ecc5399c556)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-28-09 13:41:18   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (90cfda13e92dbb70155b8ecc5399c556)] -> xpath: .//button[text()='Add']]
+2022-28-09 13:41:18   INFO [pages.WebTablesPage] : Element is displayed
+2022-28-09 13:41:19   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-28-09 13:41:19   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-28-09 13:41:19   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-28-09 13:41:20   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-28-09 13:41:20   INFO [pages.WebTablesPage] : 110 was inputed 
+2022-28-09 13:41:20   INFO [pages.WebTablesPage] : Test was inputed 
+2022-28-09 13:41:28   INFO [pages.WebTablesPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//button[text()='Submit']'
+2022-28-09 13:41:28   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-28-09 13:41:30   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-28-09 16:44:17   INFO [mainPageTest.MainPageTest] : browser was opened
+2022-28-09 16:44:23   INFO [pages.MainPage] : Main page was opened
+2022-28-09 16:44:24   INFO [mainPageTest.MainPageTest] : browser was closed
+2022-28-09 16:45:33   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-28-09 16:45:37   INFO [pages.MainPage] : Main page was opened
+2022-28-09 16:45:44   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-28-09 16:45:45   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (799979d271d71f7cbc47ad977ff592a5)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-28-09 16:45:45   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (799979d271d71f7cbc47ad977ff592a5)] -> xpath: .//button[text()='Add']]
+2022-28-09 16:45:45   INFO [pages.WebTablesPage] : Element is displayed
+2022-28-09 16:45:45   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-28-09 16:45:46   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-28-09 16:45:46   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-28-09 16:45:46   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-28-09 16:45:46   INFO [pages.WebTablesPage] : 110 was inputed 
+2022-28-09 16:45:47   INFO [pages.WebTablesPage] : Test was inputed 
+2022-28-09 16:45:47   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (799979d271d71f7cbc47ad977ff592a5)] -> xpath: .//button[text()='Submit']]
+2022-28-09 16:45:47   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-28-09 16:45:48   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-29-09 14:21:04   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-29-09 14:21:08   INFO [pages.MainPage] : Main page was opened
+2022-29-09 14:21:16   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-29-09 14:21:16   INFO [pages.TextBoxPage] : Element is displayed
+2022-29-09 14:21:16   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (f305ce4b9442feb90440ba9b78d9c399)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-29-09 14:21:16   INFO [pages.TextBoxPage] : Element is displayed
+2022-29-09 14:21:17   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-29-09 14:21:17   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-29-09 14:21:17   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-29-09 14:21:17   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-29-09 14:21:18   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (f305ce4b9442feb90440ba9b78d9c399)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-29-09 14:21:18   INFO [pages.TextBoxPage] : Element is displayed
+2022-29-09 14:21:18   INFO [pages.TextBoxPage] : Element is displayed
+2022-29-09 14:21:18   INFO [pages.TextBoxPage] : Element is displayed
+2022-29-09 14:21:18   INFO [pages.TextBoxPage] : Element is displayed
+2022-29-09 14:21:19   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-29-09 14:42:21   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-29-09 14:42:26   INFO [pages.MainPage] : Main page was opened
+2022-29-09 14:42:34   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-29-09 14:42:34   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (b262a37d8bf6f58750209d7c77d186ad)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-29-09 14:42:35   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-29-09 14:43:37   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-29-09 14:43:43   INFO [pages.MainPage] : Main page was opened
+2022-29-09 14:43:50   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-29-09 14:43:51   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (8c07c3b926237197c2c06a829ae658de)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-29-09 14:43:51   INFO [pages.RadioButtonPage] : Element is displayed
+2022-29-09 14:43:51   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (8c07c3b926237197c2c06a829ae658de)] -> xpath: .//label[@for='yesRadio']]
+2022-29-09 14:43:51   INFO [pages.RadioButtonPage] : Element Yes is displayed
+2022-29-09 14:43:52   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-29-09 14:45:31   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-29-09 14:45:35   INFO [pages.MainPage] : Main page was opened
+2022-29-09 14:45:43   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-29-09 14:45:43   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (6ea702dc952ed51a4f7c305853f7cce0)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-29-09 14:45:43   INFO [pages.RadioButtonPage] : Element is displayed
+2022-29-09 14:45:43   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (6ea702dc952ed51a4f7c305853f7cce0)] -> xpath: .//label[@for='yesRadio']]
+2022-29-09 14:45:43   INFO [pages.RadioButtonPage] : Element Yes is displayed
+2022-29-09 14:45:44   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-29-09 14:55:43   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-29-09 14:55:48   INFO [pages.MainPage] : Main page was opened
+2022-29-09 14:55:56   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-29-09 14:55:56   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (8309f3da3855ba8a013b66010a5f57a1)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-29-09 14:55:56   INFO [pages.WebTablesPage] : Element is displayed
+2022-29-09 14:55:56   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (8309f3da3855ba8a013b66010a5f57a1)] -> xpath: .//button[text()='Add']]
+2022-29-09 14:55:56   INFO [pages.WebTablesPage] : Element is displayed
+2022-29-09 14:55:57   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-29-09 14:55:57   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-29-09 14:55:57   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-29-09 14:55:58   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-29-09 14:55:58   INFO [pages.WebTablesPage] : 110 was inputed 
+2022-29-09 14:55:58   INFO [pages.WebTablesPage] : Test was inputed 
+2022-29-09 14:56:05   INFO [pages.WebTablesPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//button[text()='Submit']'
+2022-29-09 14:56:06   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-29-09 14:56:07   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-30-09 00:49:32   INFO [buttonsTest.ButtonsTest] : browser was opened
+2022-30-09 00:49:36   INFO [pages.MainPage] : Main page was opened
+2022-30-09 00:49:43   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 00:49:44  ERROR [pages.ButtonsPage] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li class="btn btn-light " id="item-4">...</li> is not clickable at point (208, 629). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61756}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 875da86d127726124d9ff28140ad9e9c
+2022-30-09 00:49:46   INFO [buttonsTest.ButtonsTest] : browser was closed
+2022-30-09 00:50:54   INFO [buttonsTest.ButtonsTest] : browser was opened
+2022-30-09 00:50:58   INFO [pages.MainPage] : Main page was opened
+2022-30-09 00:51:05   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 00:51:12  ERROR [pages.ButtonsPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//ul/li/span[text()='Elements']/parent::li"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61844}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cce8fbcf2435e3ceed31cb8eb012dba7
+*** Element info: {Using=xpath, value=.//ul/li/span[text()='Elements']/parent::li}
+2022-30-09 00:51:14   INFO [buttonsTest.ButtonsTest] : browser was closed
+2022-30-09 00:52:35   INFO [buttonsTest.ButtonsTest] : browser was opened
+2022-30-09 00:52:40   INFO [pages.MainPage] : Main page was opened
+2022-30-09 00:52:47   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 00:52:47   INFO [pages.ButtonsPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (9179751af8fb9b6e5a570034393cdb21)] -> xpath: .//ul/li/span[text()='Buttons']/parent::li]
+2022-30-09 00:52:48   INFO [pages.ButtonsPage] : Element is displayed
+2022-30-09 00:52:48   INFO [pages.ButtonsPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (9179751af8fb9b6e5a570034393cdb21)] -> xpath: .//button[text()='Click Me']]
+2022-30-09 00:52:49   INFO [buttonsTest.ButtonsTest] : browser was closed
+2022-30-09 00:57:29   INFO [buttonsTest.ButtonsTest] : browser was opened
+2022-30-09 00:57:33   INFO [pages.MainPage] : Main page was opened
+2022-30-09 00:57:41   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 00:57:42  ERROR [pages.ButtonsPage] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li class="btn btn-light " id="item-4">...</li> is not clickable at point (208, 629). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62121}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 83c70b1985c37801b4f05209a3413611
+2022-30-09 00:57:43   INFO [buttonsTest.ButtonsTest] : browser was closed
+2022-30-09 00:57:54   INFO [buttonsTest.ButtonsTest] : browser was opened
+2022-30-09 00:57:58   INFO [pages.MainPage] : Main page was opened
+2022-30-09 00:58:05   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 00:58:06  ERROR [pages.ButtonsPage] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li class="btn btn-light " id="item-4">...</li> is not clickable at point (208, 629). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62183}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e1e18f80365d1d87484c47a2d5663fd
+2022-30-09 00:58:07   INFO [buttonsTest.ButtonsTest] : browser was closed
+2022-30-09 00:58:55   INFO [buttonsTest.ButtonsTest] : browser was opened
+2022-30-09 00:58:59   INFO [pages.MainPage] : Main page was opened
+2022-30-09 00:59:06   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 00:59:08  ERROR [pages.ButtonsPage] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li class="btn btn-light " id="item-4">...</li> is not clickable at point (208, 629). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7c2ed6513788262671b95332a4c9f67a
+2022-30-09 00:59:09   INFO [buttonsTest.ButtonsTest] : browser was closed
+2022-30-09 01:00:19   INFO [buttonsTest.ButtonsTest] : browser was opened
+2022-30-09 01:00:22   INFO [pages.MainPage] : Main page was opened
+2022-30-09 01:00:30   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 01:00:30   INFO [pages.ButtonsPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (0c6cb91f65d16870c92d82ef98b7b17d)] -> xpath: .//ul/li/span[text()='Buttons']/parent::li]
+2022-30-09 01:00:30   INFO [pages.ButtonsPage] : Element is displayed
+2022-30-09 01:00:30   INFO [pages.ButtonsPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (0c6cb91f65d16870c92d82ef98b7b17d)] -> xpath: .//button[text()='Click Me']]
+2022-30-09 01:00:30   INFO [pages.ButtonsPage] : Element is displayed
+2022-30-09 01:00:30   INFO [pages.ButtonsPage] : Element is displayed
+2022-30-09 01:00:31   INFO [pages.ButtonsPage] : Element is displayed
+2022-30-09 01:00:32   INFO [buttonsTest.ButtonsTest] : browser was closed
+2022-30-09 01:00:45   INFO [buttonsTest.ButtonsTest] : browser was opened
+2022-30-09 01:00:49   INFO [pages.MainPage] : Main page was opened
+2022-30-09 01:00:56   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 01:00:57  ERROR [pages.ButtonsPage] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li class="btn btn-light " id="item-4">...</li> is not clickable at point (208, 629). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-LLACP0J', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\zuma1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62418}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 58ec098b3a8d67a376b1ee34afe99226
+2022-30-09 01:00:59   INFO [buttonsTest.ButtonsTest] : browser was closed
+2022-30-09 01:06:06   INFO [buttonsTest.ButtonsTest] : browser was opened
+2022-30-09 01:06:10   INFO [pages.MainPage] : Main page was opened
+2022-30-09 01:06:17   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 01:06:17   INFO [pages.ButtonsPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (f18b089342539066c50cb6383998995a)] -> xpath: .//ul/li/span[text()='Buttons']/parent::li]
+2022-30-09 01:06:17   INFO [pages.ButtonsPage] : Element is displayed
+2022-30-09 01:06:17   INFO [pages.ButtonsPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (f18b089342539066c50cb6383998995a)] -> xpath: .//button[text()='Click Me']]
+2022-30-09 01:06:18   INFO [pages.ButtonsPage] : Element is displayed
+2022-30-09 01:06:18   INFO [pages.ButtonsPage] : Element is displayed
+2022-30-09 01:06:18   INFO [pages.ButtonsPage] : Element is displayed
+2022-30-09 01:06:19   INFO [buttonsTest.ButtonsTest] : browser was closed
+2022-30-09 01:06:29   INFO [radioBtnTest.RadioBtnTest] : browser was opened
+2022-30-09 01:06:33   INFO [pages.MainPage] : Main page was opened
+2022-30-09 01:06:40   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 01:06:41   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (ce791db7ab3a62d08fefa07eb033e429)] -> xpath: .//ul/li/span[text()='Radio Button']/parent::li]
+2022-30-09 01:06:41   INFO [pages.RadioButtonPage] : Element is displayed
+2022-30-09 01:06:41   INFO [pages.RadioButtonPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (ce791db7ab3a62d08fefa07eb033e429)] -> xpath: .//label[@for='yesRadio']]
+2022-30-09 01:06:41   INFO [pages.RadioButtonPage] : Element Yes is displayed
+2022-30-09 01:06:42   INFO [radioBtnTest.RadioBtnTest] : browser was closed
+2022-30-09 01:06:51   INFO [textBoxTest.TextBoxTest] : browser was opened
+2022-30-09 01:06:55   INFO [pages.MainPage] : Main page was opened
+2022-30-09 01:07:02   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-30-09 01:07:02   INFO [pages.TextBoxPage] : Element is displayed
+2022-30-09 01:07:02   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (21f5fb29efed7f34c52cec016e1ce347)] -> xpath: .//ul/li/span[text()='Text Box']/parent::li]
+2022-30-09 01:07:03   INFO [pages.TextBoxPage] : Element is displayed
+2022-30-09 01:07:03   INFO [pages.TextBoxPage] : Full Name Test was inputed 
+2022-30-09 01:07:03   INFO [pages.TextBoxPage] : email@gmail.com was inputed 
+2022-30-09 01:07:04   INFO [pages.TextBoxPage] : TEST-1 was inputed 
+2022-30-09 01:07:04   INFO [pages.TextBoxPage] : TEST-2 was inputed 
+2022-30-09 01:07:04   INFO [pages.TextBoxPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (21f5fb29efed7f34c52cec016e1ce347)] -> xpath: .//button[contains(text(),'Submit')]]
+2022-30-09 01:07:04   INFO [pages.TextBoxPage] : Element is displayed
+2022-30-09 01:07:04   INFO [pages.TextBoxPage] : Element is displayed
+2022-30-09 01:07:04   INFO [pages.TextBoxPage] : Element is displayed
+2022-30-09 01:07:04   INFO [pages.TextBoxPage] : Element is displayed
+2022-30-09 01:07:06   INFO [textBoxTest.TextBoxTest] : browser was closed
+2022-01-10 00:13:10   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-01-10 00:13:14   INFO [pages.MainPage] : Main page was opened
+2022-01-10 00:13:24   INFO [pages.MainPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//div[@class ='category-cards']/div/div/div/h5[contains(text(),'Elements')]/parent::div/parent::div/parent::div'
+2022-01-10 00:13:25   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (428d0a8dd8b5bbef3b90f8c21c8c514d)] -> xpath: .//ul/li/span[text()='Web Tables']/parent::li]
+2022-01-10 00:13:25   INFO [pages.WebTablesPage] : Element is displayed
+2022-01-10 00:13:25   INFO [pages.WebTablesPage] : Element was clicked[[ChromeDriver: chrome on WINDOWS (428d0a8dd8b5bbef3b90f8c21c8c514d)] -> xpath: .//button[text()='Add']]
+2022-01-10 00:13:25   INFO [pages.WebTablesPage] : Element is displayed
+2022-01-10 00:13:25   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-01-10 00:13:26   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-01-10 00:13:26   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-01-10 00:13:26   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-01-10 00:13:27   INFO [pages.WebTablesPage] : 110 was inputed 
+2022-01-10 00:13:27   INFO [pages.WebTablesPage] : Test was inputed 
+2022-01-10 00:13:34   INFO [pages.WebTablesPage] : Element was clickedProxy element for: DefaultElementLocator 'By.xpath: .//button[text()='Submit']'
+2022-01-10 00:13:35   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-01-10 00:13:36   INFO [webTablesTest.WebTablesTest] : browser was closed
+2022-01-10 00:19:38   INFO [webTablesTest.WebTablesTest] : browser was opened
+2022-01-10 00:19:42   INFO [pages.MainPage] : Main page was opened
+2022-01-10 00:19:43   INFO [pages.MainPage] : Element was clicked
+2022-01-10 00:19:44   INFO [pages.WebTablesPage] : Element was clicked
+2022-01-10 00:19:45   INFO [pages.WebTablesPage] : Element is displayed
+2022-01-10 00:19:45   INFO [pages.WebTablesPage] : Element was clicked
+2022-01-10 00:19:45   INFO [pages.WebTablesPage] : Element is displayed
+2022-01-10 00:19:45   INFO [pages.WebTablesPage] : Test Name was inputed 
+2022-01-10 00:19:46   INFO [pages.WebTablesPage] : Test Last Name was inputed 
+2022-01-10 00:19:46   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-01-10 00:19:46   INFO [pages.WebTablesPage] : 12 was inputed 
+2022-01-10 00:19:46   INFO [pages.WebTablesPage] : 110 was inputed 
+2022-01-10 00:19:47   INFO [pages.WebTablesPage] : Test was inputed 
+2022-01-10 00:19:47   INFO [pages.WebTablesPage] : Element was clicked
+2022-01-10 00:19:47   INFO [pages.WebTablesPage] : test@gmail.com was inputed 
+2022-01-10 00:19:48   INFO [webTablesTest.WebTablesTest] : browser was closed

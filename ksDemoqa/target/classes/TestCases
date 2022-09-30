@@ -1,0 +1,73 @@
+Tc1
+Main page entry
+
+preconditions
+Iнсталювати браузер "Google"
+
+1 Виконати вхід на сторінку "https://demoqa.com/"
+
+Expected result: Відкриваэться сторінка "https://demoqa.com/"
+
+
+Tc2
+Page Elements
+
+preconditions
+Виконати вхід на сторінку "https://demoqa.com/"
+
+1 Натиснути кнопку "Elements"
+2 Натиснути кнопку "Tex Box"
+3 Заповнити поле "NameInput"
+4 Заповнити поле "EmailInput"
+5 Заповнити поле "CurrentAddress"
+6 заповнити поле "PermanentAddress"
+7 Натиснути кнопку "Submit"
+
+Expected result: Вiдображено список полiв: EmailInput, EmailInput, CurrentAddress, PermanentAddress
+
+
+Tc3
+Page Radio Btn
+
+preconditions
+Виконати вхід на сторінку "https://demoqa.com/"
+
+1 Натиснути кнопку "Elements"
+2 Натиснути кнопку "Radio Btn"
+3 Натиснути кнопку Yes
+
+Expected result: Вiдображено "Yes" в полi "have selected"
+
+
+Tc4
+Page Web Tables
+
+preconditions
+Виконати вхід на сторінку "https://demoqa.com/"
+
+1 Натиснути кнопку "Elements"
+2 Натиснути кнопку "WebTables"
+3 Натиснути кнопку "Add"
+4 Заповнити поле "FirstName"
+5 Заповнити поле "LastName"
+6 Заповнити поле "Email"
+7 Заповнити поле "Age"
+8 Заповнити поле "Salary"
+9 Заповнити поле "Departmen"
+10 Натиснути кнопку "Submit"
+11 Заповнити поле пошуку данними введеного "Email"
+
+Expected result: Вiдобразиться строка з данним "Email"
+
+Tc5
+Page Buttons
+
+preconditions
+Виконати вхід на сторінку "https://demoqa.com/"
+
+1 Натиснути кнопку "Buttons"
+2 Натиснути кнопку "Double Click Me"
+3 Натиснути кнопку "Right Click Me"
+3 Натиснути кнопку "Click Me"
+
+Expected result: Вiдображено список полiв: You have done a double click, You have done a right click, You have done a dynamic click
