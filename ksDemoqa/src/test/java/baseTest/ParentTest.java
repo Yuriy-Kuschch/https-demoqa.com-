@@ -17,7 +17,9 @@ public class ParentTest {
     protected MainPage mainPage;
     protected TextBoxPage textBoxPage;
     protected RadioButtonPage radioButtonPage;
+
     protected WebTablesPage webTablesPage;
+
     protected ButtonsPage buttonsPage;
 
     @Before
@@ -26,7 +28,7 @@ public class ParentTest {
         webDriver = new ChromeDriver();
         webDriver.manage().window().maximize();
         webDriver.manage().timeouts().implicitlyWait(7, TimeUnit.SECONDS);
-        logger.info("browser was opened");
+        logger.info("browser was opened ");
         mainPage = new MainPage(webDriver);
         textBoxPage = new TextBoxPage(webDriver);
         radioButtonPage = new RadioButtonPage(webDriver);
